@@ -1,0 +1,10 @@
+{
+  "description": "Offers a premium Russian fish store with fresh seafood catalog, easy ordering, fast delivery, and detailed product info in a clean, user-friendly design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
